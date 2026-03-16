@@ -1,0 +1,7 @@
+# Required for Module 01 exercises (token counting)
+tiktoken==0.8.0
+
+# Optional — only needed if you want to call LLM APIs programmatically
+# instead of using the free web playgrounds (ChatGPT, Claude.ai, etc.)
+# anthropic==0.42.0
+# openai==1.58.0
