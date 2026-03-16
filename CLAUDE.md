@@ -282,7 +282,7 @@ This repo is open source (MIT) but primarily maintained by Riel. Contributions f
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `CanadaApollo6/KCDC-2022-Materials`      | Prior art. 4-hour ML workshop (2022). Adapt concepts and datasets for `03-classical-ml/` modules. Do not copy-paste — update, restructure, and expand. |
 | `Smart-Data-Ohio/Snowflake-CortexAI-Lab` | Reference for Applied modules — demonstrates a real AI-integrated lab environment                                                                      |
-| `Smart-Data-Ohio/sd-harvest`             | Reference implementation for Agent Patterns & MCP module — a production MCP server                                                                     |
+| `Smart-Data-Ohio/sd-plugins/sd-harvest`  | Reference implementation for Agent Patterns & MCP module — a production MCP server                                                                     |
 
 ---
 
